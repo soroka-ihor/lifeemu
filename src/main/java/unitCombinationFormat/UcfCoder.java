@@ -24,7 +24,7 @@ public class UcfCoder {
 
     public static final int LANDSCAPE_CAVE = 0xF;
 
-    /* CREATURES */
+    /* CREATURES*/
     public static final int CREATURE_HUMAN = 0x1;
     public static final int CREATURE_MAMMOTH = 0x2;
     public static final int CREATURE_WOLF = 0x3;
